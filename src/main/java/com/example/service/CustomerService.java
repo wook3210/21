@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.domain.Customer;
-import com.example.domain.CustomerRepository;
+import com.example.repository.CustomerRepository;
 
 
 
